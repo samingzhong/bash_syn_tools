@@ -1,0 +1,15 @@
+#!/bin/bash
+# 同步log
+
+get_current_date (){
+	echo $(date '+%Y-%m-%d %H:%M:%S')
+}
+
+
+shellDir=$(dirname $0)
+cd "$shellDir"
+
+git add *
+git add .*
+git commit --amend -m "自动同步[at $(get_current_date)]"
+git push -f

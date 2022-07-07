@@ -1,0 +1,11 @@
+#家里机器 ....
+
+
+
+# 公司机器
+# xcode setting
+# 下载
+00 00 * * * ~/Library/Developer/Xcode/UserData/.syn_tools/git_pull
+
+# 上传
+30 21 * * * ~/Library/Developer/Xcode/UserData/.syn_tools/git_push

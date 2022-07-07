@@ -1,0 +1,27 @@
+#!/bin/bash
+
+get_current_date (){
+	echo $(date '+%Y-%m-%d %H:%M:%S')
+}
+
+push_stash () {
+	echo "git stash push..." 
+	git stash push
+}
+
+pop_stash () {
+	echo "git stash pop..." 
+	git stash pop
+}
+
+
+echo "---------------🔻🔻🔻🔻🔻 pull 开始执行[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
+
+
+shellDir=$(dirname $0)
+cd "$shellDir"
+
+git pull
+
+echo  "--------------- 🔻🔻🔻🔻 pull 执行结束时间[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
+echo "."
