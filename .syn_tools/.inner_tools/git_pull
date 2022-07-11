@@ -3,7 +3,7 @@
 echo "\$0:$0"
 echo "\$1:$1"
 targetDir=$1
-exit 0
+
 
 get_current_date (){
 	echo $(date '+%Y-%m-%d %H:%M:%S')
@@ -19,14 +19,27 @@ pop_stash () {
 	git stash pop
 }
 
+# batch_sh 批量同步命令（给crontab用）
+stash_and_pull(){
+	cd $targetDir
+	echo "git stash push..."
+	git add *
+	git stash push
+	echo "git pull..."
+	git pull
+	echo "git stash pop..."
+	git stash pop
+}
+
+
 
 echo "---------------🔻🔻🔻🔻🔻 pull 开始执行[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
 
 
-shellDir=$(dirname $0)
-cd "$shellDir"
+# shellDir=$(dirname $0)
+# cd "$shellDir"
 
-git pull
+stash_and_pull
 
 echo  "--------------- 🔻🔻🔻🔻 pull 执行结束时间[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
 echo ""
