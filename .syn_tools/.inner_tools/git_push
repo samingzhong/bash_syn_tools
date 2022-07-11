@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "running script $0..."
 
 echo "\$0:$0"
 echo "\$1:$1"
@@ -33,20 +34,18 @@ exit_if_target_dir_not_exit () {
 
 main () {
 	exit_if_target_dir_not_exit "$targetDir"
-	
+
+
+	echo "--------------- ⏫⏫⏫⏫⏫ 目标仓库：$targetDir ⏫⏫⏫⏫⏫ ----------------"
 	echo "--------------- ⏫⏫⏫⏫⏫ push 开始执行[$(get_current_date)] ⏫⏫⏫⏫⏫ ----------------"
-
-
-	shellDir=$(dirname $0)
-	cd "$shellDir"
-	
+	cd "$targetDir"
 	echo "当前目录:$(pwd)"
 	git add *
-	git add ../*
-	git add ../../*
+	git rm $(git ls-files --deleted)
 	git commit -m  "自动同步(push)[at $(get_current_date)]"
 	git push -f
-	
+
+	echo "--------------- ⏫⏫⏫⏫⏫ 目标仓库：$targetDir ⏫⏫⏫⏫⏫ ----------------"	
 	echo "--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[$(get_current_date)] ⏫⏫⏫⏫⏫ ----------------"
 	echo ""
 }

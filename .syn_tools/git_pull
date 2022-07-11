@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "running script $0..."
 # 脚本说明：拉取origin/master的文件到本地，然后上传操作日志。
 echo "\$0:$0"
 echo "\$1:$1"
@@ -36,3 +37,5 @@ main () {
 	# sh .inner_tools/upload_log $targetDir
 
 }
+
+main

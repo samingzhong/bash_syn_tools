@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "running script $0..."
 # 脚本说明：推送本地commit到origin/master，然后上传操作日志。
 echo "\$0:$0"
 echo "\$1:$1"
@@ -8,10 +9,28 @@ targetDir=$1
 shellDir=$(dirname $0)
 echo -e "shellDir:$shellDir\npwd:$(pwd)"
 
-cd "$shellDir"
+exit_if_target_dir_not_exit () {
+	echo "exit_if_target_dir_not_exit..."
+	dir=$1
+	if [ ! -d "$dir" ]; then
+  		echo "目录($dir)不存在，即将退出处理..."
+  		exit -1
+	fi
+}
 
-# sh .inner_tools/git_push >> syn.log 2>&1
-sh .inner_tools/git_push "$targetDir"
 
-# cd $shellDir
-# sh .inner_tools/upload_log
+
+main() {
+	exit_if_target_dir_not_exit "$targetDir"
+	
+	cd "$shellDir"
+	# sh .inner_tools/git_push >> syn.log 2>&1
+	sh .inner_tools/git_push "$targetDir"
+	
+	# cd $shellDir
+	# sh .inner_tools/upload_log
+}
+
+main
+
+

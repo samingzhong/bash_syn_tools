@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "running script $0..."
+
 
 echo "\$0:$0"
 echo "\$1:$1"
@@ -22,6 +24,7 @@ pop_stash () {
 stash_and_pull(){
 	echo "git stash push..."
 	git add *
+	git rm $(git ls-files --deleted)
 	git stash push
 	echo "git pull..."
 	git pull
@@ -43,14 +46,20 @@ exit_if_target_dir_not_exit () {
 main () {
 	exit_if_target_dir_not_exit "$targetDir"
 
+	echo "---------------🔻🔻🔻🔻🔻 目标仓库：$targetDir 🔻🔻🔻🔻 ----------------"
+
 	echo "---------------🔻🔻🔻🔻🔻 pull 开始执行[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
 
 	cd "$targetDir"
 	stash_and_pull
 
+	echo "---------------🔻🔻🔻🔻🔻 目标仓库：$targetDir 🔻🔻🔻🔻 ----------------"
 	echo  "--------------- 🔻🔻🔻🔻 pull 执行结束时间[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
 	echo ""
 }
 
 
+# =============== main =============== 
 main
+# =============== main =============== 
+
