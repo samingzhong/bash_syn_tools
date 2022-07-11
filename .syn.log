@@ -22,3 +22,12 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 18:17:20] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 5be8c13] 自动同步(push)[at 2022-07-11 18:17:20]
+ 3 files changed, 17 insertions(+), 188 deletions(-)
+ delete mode 100644 syn.log
+To github.com:samingzhong/bash_syn_tools.git
+   038a18d..5be8c13  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-11 18:17:24] ⏫⏫⏫⏫⏫ ----------------
+
