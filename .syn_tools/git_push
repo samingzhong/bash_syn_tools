@@ -3,7 +3,10 @@
 # 脚本说明：推送本地commit到origin/master，然后上传操作日志。
 
 shellDir=$(dirname $0)
-cd "$shellDir"
+
+echo -e "shellDir:$shellDir\npwd:$(pwd)"
+
+cd $shellDir
 
 sh .inner_tools/git_push >> syn.log 2>&1
 sh .inner_tools/upload_log

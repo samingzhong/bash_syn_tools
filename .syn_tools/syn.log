@@ -140,3 +140,580 @@ Fast-forward
  create mode 100644 123
 --------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 11:25:13] 🔻🔻🔻🔻 ----------------
 .
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 11:30:22] ⏫⏫⏫⏫⏫ ----------------
+[master 4346216] 自动同步[at 2022-07-07 11:30:22]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   d35659d..4346216  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 11:30:26] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 11:31:07] ⏫⏫⏫⏫⏫ ----------------
+[master 83f836f] 自动同步[at 2022-07-07 11:31:07]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   2e3a78a..83f836f  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 11:31:12] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 11:31:23] ⏫⏫⏫⏫⏫ ----------------
+[master 196f1e0] 自动同步[at 2022-07-07 11:31:23]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+ + 83f836f...196f1e0 master -> master (forced update)
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 11:31:28] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 12:43:58] ⏫⏫⏫⏫⏫ ----------------
+[master ffb9a55] 自动同步[at 2022-07-07 12:43:58]
+ 3 files changed, 13 insertions(+), 1 deletion(-)
+ create mode 100644 a
+To github.com:samingzhong/Android-Studios-Setting.git
+   9333303..ffb9a55  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 12:44:02] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 12:46:00] ⏫⏫⏫⏫⏫ ----------------
+[master 9894660] 自动同步[at 2022-07-07 12:46:00]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   da788bc..9894660  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 12:46:04] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 12:46:49] ⏫⏫⏫⏫⏫ ----------------
+[master da026a5] 自动同步[at 2022-07-07 12:46:50]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   c0bd8c8..da026a5  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 12:46:54] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 12:48:00] ⏫⏫⏫⏫⏫ ----------------
+[master e3e7543] 自动同步[at 2022-07-07 12:48:00]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   9441759..e3e7543  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 12:48:04] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 12:51:00] ⏫⏫⏫⏫⏫ ----------------
+[master 4563648] 自动同步[at 2022-07-07 12:51:00]
+ 2 files changed, 1 insertion(+)
+ create mode 100644 aaa
+To github.com:samingzhong/Android-Studios-Setting.git
+   6612ba7..4563648  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 12:51:04] ⏫⏫⏫⏫⏫ ----------------
+.
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 12:54:00] ⏫⏫⏫⏫⏫ ----------------
+[master bfbc47e] 自动同步[at 2022-07-07 12:54:00]
+ 6 files changed, 3 insertions(+), 3 deletions(-)
+ delete mode 100644 123
+ delete mode 100644 a
+ delete mode 100644 aaa
+To github.com:samingzhong/Android-Studios-Setting.git
+   793ee73..bfbc47e  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 12:54:04] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 12:57:11] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 12:57:15] 🔻🔻🔻🔻 ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 12:58:00] 🔻🔻🔻🔻 ----------------
+From github.com:samingzhong/Android-Studios-Setting
+   89361ea..d58fab0  master     -> origin/master
+Updating 89361ea..d58fab0
+Fast-forward
+ 111 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 111
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 12:58:04] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:04:00] ⏫⏫⏫⏫⏫ ----------------
+[master 8b535dc] 自动同步[at 2022-07-07 13:04:00]
+ 2 files changed, 13 insertions(+), 5 deletions(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   029cdb4..8b535dc  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:04:04] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:04:39] ⏫⏫⏫⏫⏫ ----------------
+[master 2f1aeab] 自动同步[at 2022-07-07 13:04:39]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   ffdf39a..2f1aeab  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:04:43] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:10:24] ⏫⏫⏫⏫⏫ ----------------
+[master 2fd9811] 自动同步[at 2022-07-07 13:10:24]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   f7ea0b9..2fd9811  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:10:31] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:10:56] ⏫⏫⏫⏫⏫ ----------------
+[master c6c7b0f] 自动同步[at 2022-07-07 13:10:56]
+ 2 files changed, 2 insertions(+), 7 deletions(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   8c6c8e8..c6c7b0f  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:11:00] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:12:00] ⏫⏫⏫⏫⏫ ----------------
+[master 41a5fa0] 自动同步[at 2022-07-07 13:12:00]
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .syn_tools/aaaa
+To github.com:samingzhong/Android-Studios-Setting.git
+   5a8b955..41a5fa0  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:12:04] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 13:13:00] 🔻🔻🔻🔻 ----------------
+From github.com:samingzhong/Android-Studios-Setting
+   cf7ad34..15daa67  master     -> origin/master
+Updating cf7ad34..15daa67
+Fast-forward
+ 123 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 123
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 13:13:04] 🔻🔻🔻🔻 ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 13:16:24] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 13:16:28] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:21:13] ⏫⏫⏫⏫⏫ ----------------
+[master f91d2d5] 自动同步[at 2022-07-07 13:21:13]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   e21c6a7..f91d2d5  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:21:17] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 13:22:36] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 13:22:40] 🔻🔻🔻🔻 ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 13:23:18] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 13:23:25] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:24:04] ⏫⏫⏫⏫⏫ ----------------
+[master d4f7da9] 自动同步(push)[at 2022-07-07 13:24:04]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   de622b1..d4f7da9  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:24:09] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:25:24] ⏫⏫⏫⏫⏫ ----------------
+[master fa52fcb] 自动同步(push)[at 2022-07-07 13:25:24]
+ 3 files changed, 1 insertion(+)
+ delete mode 100644 .syn_tools/aaaa
+ delete mode 100644 .syn_tools/b
+To github.com:samingzhong/Android-Studios-Setting.git
+   b6c994d..fa52fcb  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:25:28] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:29:18] ⏫⏫⏫⏫⏫ ----------------
+[master 539cfa5] 自动同步(push)[at 2022-07-07 13:29:18]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   8ca31d5..539cfa5  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:29:22] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:39:09] ⏫⏫⏫⏫⏫ ----------------
+[master 069a67f] 自动同步(push)[at 2022-07-07 13:39:09]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   06a921d..069a67f  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:39:13] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:41:10] ⏫⏫⏫⏫⏫ ----------------
+[master 0a87671] 自动同步(push)[at 2022-07-07 13:41:10]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   38b8fab..0a87671  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:41:14] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:41:53] ⏫⏫⏫⏫⏫ ----------------
+[master acf00c8] 自动同步(push)[at 2022-07-07 13:41:53]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   5c3e9cb..acf00c8  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:41:57] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:43:25] ⏫⏫⏫⏫⏫ ----------------
+[master 82e65cf] 自动同步(push)[at 2022-07-07 13:43:25]
+ 1 file changed, 1 insertion(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   cbbc3d3..82e65cf  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:43:30] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:45:59] ⏫⏫⏫⏫⏫ ----------------
+[master 070f4bb] 自动同步(哈哈哈哈)[at 2022-07-07 13:45:59]
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   c3a7bc0..070f4bb  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:46:04] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:46:43] ⏫⏫⏫⏫⏫ ----------------
+[master 2876416] 自动同步(哈哈哈哈)[at 2022-07-07 13:46:43]
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   d259d97..2876416  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:46:47] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:49:28] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+[master 32e8f97] 自动同步(push)[at 2022-07-07 13:49:28]
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   19540a6..32e8f97  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:49:32] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:51:25] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ../syn.log
+	modified:   ../../templates/C_C__.xml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../11111
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:51:29] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:52:26] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master 550ae5d] 自动同步(push)[at 2022-07-07 13:52:26]
+ 4 files changed, 5 insertions(+), 1 deletion(-)
+ create mode 100644 11111
+To github.com:samingzhong/Android-Studios-Setting.git
+   b9c3c3e..550ae5d  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:52:30] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:53:50] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master fa7c0db] 自动同步(push)[at 2022-07-07 13:53:50]
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   b1edd1b..fa7c0db  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:53:55] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:55:00] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master 4867881] 自动同步(push)[at 2022-07-07 13:55:00]
+ 2 files changed, 22 insertions(+), 1 deletion(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   fa7c0db..4867881  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 13:55:04] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:56:02] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master 05a19b9] 自动同步(push)[at 2022-07-07 13:56:02]
+ 1 file changed, 20 insertions(+)
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 13:58:02] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 14:00:30] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master 20f03d8] 自动同步(push)[at 2022-07-07 14:00:30]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   f7c012f..20f03d8  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 14:00:34] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 14:02:38] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master a07ceed] 自动同步(push)[at 2022-07-07 14:02:38]
+ 3 files changed, 27 insertions(+), 10 deletions(-)
+ delete mode 100644 templates/C_C__.xml
+To github.com:samingzhong/Android-Studios-Setting.git
+   20f03d8..a07ceed  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 14:02:43] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 14:08:17] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master bcc48b9] 自动同步(push)[at 2022-07-07 14:08:17]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   e7924ea..bcc48b9  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 14:08:21] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 14:10:15] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master fb5af16] 自动同步(push)[at 2022-07-07 14:10:15]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   67048f6..fb5af16  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 14:10:20] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 14:11:24] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 14:11:30] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 14:12:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master c2230fb] 自动同步(push)[at 2022-07-07 14:12:10]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   ef9ec78..c2230fb  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 14:12:14] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 14:13:24] 🔻🔻🔻🔻 ----------------
+From github.com:samingzhong/Android-Studios-Setting
+   9a79704..d2af911  master     -> origin/master
+Updating 9a79704..d2af911
+Fast-forward
+ 11111 | 0
+ 123   | 1 -
+ 2 files changed, 1 deletion(-)
+ delete mode 100644 11111
+ delete mode 100644 123
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 14:13:29] 🔻🔻🔻🔻 ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 16:27:45] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 16:27:50] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 16:29:12] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master f8e99e2] 自动同步(push)[at 2022-07-07 16:29:12]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   45078ec..f8e99e2  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 16:29:17] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-07 16:31:44] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 16:31:49] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 16:45:21] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master 6c04c1b] 自动同步(push)[at 2022-07-07 16:45:21]
+ 2 files changed, 4 insertions(+)
+ create mode 100644 "README\347\232\204\345\211\257\346\234\254.md"
+To github.com:samingzhong/Android-Studios-Setting.git
+   3e11ced..6c04c1b  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 16:45:29] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 21:30:18] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master a04204b] 自动同步(push)[at 2022-07-07 21:30:18]
+ 2 files changed, 25 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   63e5e98..a04204b  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 21:30:22] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-08 09:00:08] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-08 09:00:12] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-08 20:26:08] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master b37237e] 自动同步(push)[at 2022-07-08 20:26:09]
+ 4 files changed, 31 insertions(+)
+ create mode 100644 colors/_@user_Darcula.icls
+To github.com:samingzhong/Android-Studios-Setting.git
+   77ec18c..b37237e  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-08 20:26:13] ⏫⏫⏫⏫⏫ ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-08 20:27:09] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master deeb3d9] 自动同步(push)[at 2022-07-08 20:27:09]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   984bf91..deeb3d9  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-08 20:27:13] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-09 11:23:27] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-09 11:23:31] 🔻🔻🔻🔻 ----------------
+
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-09 20:27:08] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master 6cf384c] 自动同步(push)[at 2022-07-09 20:27:09]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   47301dc..6cf384c  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-09 20:27:13] ⏫⏫⏫⏫⏫ ----------------
+
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-10 11:10:20] 🔻🔻🔻🔻 ----------------
+Already up to date.
+--------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-10 11:10:24] 🔻🔻🔻🔻 ----------------
+
