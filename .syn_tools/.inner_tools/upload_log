@@ -23,8 +23,7 @@ exit_if_target_dir_not_exit () {
 cd "$targetDir"
 
 git status
-git add *
-git add .
+git add *.log
 
 # git commit -m  --amend "自动同步(push)[at $(get_current_date)]"
 git commit -m "同步日志(push)[at $(get_current_date)]"
