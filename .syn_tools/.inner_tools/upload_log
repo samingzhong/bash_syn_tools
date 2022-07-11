@@ -1,19 +1,30 @@
 #!/bin/bash
+echo "running script $0..."
+
+echo "\$0:$0"
+echo "\$1:$1"
+targetDir="$1"
 # 同步log
 
 get_current_date (){
 	echo $(date '+%Y-%m-%d %H:%M:%S')
 }
 
+exit_if_target_dir_not_exit () {
+	echo "exit_if_target_dir_not_exit..."
+	dir=$1
+	if [ ! -d "$dir" ]; then
+  		echo "目录($dir)不存在，即将退出处理..."
+  		exit -1
+	fi
+}
 
-shellDir=$(dirname $0)
-cd "$shellDir"
+
+cd "targetDir"
 
 git status
-
 git add *
-git add ../*.log
-git add ../../*
+
 # git commit -m  --amend "自动同步(push)[at $(get_current_date)]"
 git commit -m "同步日志(push)[at $(get_current_date)]"
-git push -f
+git push
