@@ -2,8 +2,7 @@
 
 echo "\$0:$0"
 echo "\$1:$1"
-targetDir=$1
-
+targetDir="$1"
 
 get_current_date (){
 	echo $(date '+%Y-%m-%d %H:%M:%S')
@@ -21,7 +20,6 @@ pop_stash () {
 
 # batch_sh 批量同步命令（给crontab用）
 stash_and_pull(){
-	cd $targetDir
 	echo "git stash push..."
 	git add *
 	git stash push
@@ -31,15 +29,28 @@ stash_and_pull(){
 	git stash pop
 }
 
+exit_if_target_dir_not_exit () {
+	echo "exit_if_target_dir_not_exit..."
+	dir=$1
+	if [ ! -d "$dir" ]; then
+  		echo "目录($dir)不存在，即将退出处理..."
+  		exit -1
+	fi
+}
 
 
-echo "---------------🔻🔻🔻🔻🔻 pull 开始执行[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
+
+main () {
+	exit_if_target_dir_not_exit "$targetDir"
+
+	echo "---------------🔻🔻🔻🔻🔻 pull 开始执行[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
+
+	cd "$targetDir"
+	stash_and_pull
+
+	echo  "--------------- 🔻🔻🔻🔻 pull 执行结束时间[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
+	echo ""
+}
 
 
-# shellDir=$(dirname $0)
-# cd "$shellDir"
-
-stash_and_pull
-
-echo  "--------------- 🔻🔻🔻🔻 pull 执行结束时间[$(get_current_date)] 🔻🔻🔻🔻 ----------------"
-echo ""
+main
