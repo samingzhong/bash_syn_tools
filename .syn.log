@@ -198,3 +198,11 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 23:22:47] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master a4d8c01] 自动同步(push)[at 2022-07-11 23:22:47]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   607e61d..a4d8c01  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-11 23:22:51] ⏫⏫⏫⏫⏫ ----------------
+
