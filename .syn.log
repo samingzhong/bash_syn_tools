@@ -1,0 +1,7 @@
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 18:16:14] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
