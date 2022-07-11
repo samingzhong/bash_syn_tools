@@ -5,3 +5,20 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 18:16:14] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 038a18d] 自动同步(push)[at 2022-07-11 18:16:14]
+ 4 files changed, 9 insertions(+), 809 deletions(-)
+ create mode 100644 .syn.log
+ delete mode 100644 .syn_tools/syn.log
+To github.com:samingzhong/bash_syn_tools.git
+   34ac0ca..038a18d  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-11 18:16:18] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 18:17:20] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
