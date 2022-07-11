@@ -20,7 +20,7 @@ exit_if_target_dir_not_exit () {
 }
 
 
-cd "targetDir"
+cd "$targetDir"
 
 git status
 git add *

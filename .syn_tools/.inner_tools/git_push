@@ -41,6 +41,7 @@ main () {
 	cd "$targetDir"
 	echo "当前目录:$(pwd)"
 	git add *
+	git add .
 	git rm $(git ls-files --deleted)
 	git commit -m  "自动同步(push)[at $(get_current_date)]"
 	git push -f

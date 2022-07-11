@@ -24,6 +24,7 @@ pop_stash () {
 stash_and_pull(){
 	echo "git stash push..."
 	git add *
+	git add .
 	git rm $(git ls-files --deleted)
 	git stash push
 	echo "git pull..."
