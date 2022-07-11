@@ -724,3 +724,19 @@ $1:/Users/samingzhong/Library/Application
 ---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-11 16:25:01] 🔻🔻🔻🔻 ----------------
 .inner_tools/git_pull: line 24: cd: /Users/samingzhong/Library/Application: No such file or directory
 git stash push...
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_batch_sh
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_batch_sh ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 17:32:55] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_batch_sh
+fatal: No pathspec was given. Which files should I remove?
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_batch_sh ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-11 17:32:59] ⏫⏫⏫⏫⏫ ----------------
+
