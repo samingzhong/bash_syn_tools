@@ -437,6 +437,7 @@ To github.com:samingzhong/bash_syn_tools.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-15 01:45:41] ⏫⏫⏫⏫⏫ ----------------
 
+<<<<<<< Updated upstream
 =======
 running script .inner_tools/git_pull...
 $0:.inner_tools/git_pull
@@ -462,3 +463,13 @@ To github.com:samingzhong/bash_syn_tools.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-15 20:50:13] ⏫⏫⏫⏫⏫ ----------------
 
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-15 21:30:11] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
