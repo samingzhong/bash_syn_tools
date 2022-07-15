@@ -68,7 +68,8 @@ increase_version() {
 
 	echo "提取最后一个版本号..."
 	last_version=$(echo $current_version | awk -F "." '{print $NF}')
-	echo "提取到的最后一个版本号为:$last_version"
+  echo "提取到的最后一个版本号为:$last_version"
+
 
 	inCrease_version=$((last_version+1))
 	echo "递增后的最后子版本号为:$inCrease_version"
