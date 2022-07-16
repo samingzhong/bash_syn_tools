@@ -55,8 +55,26 @@ pod_lib_lint(){
 }
 
 
+_increment_version ()
+{
+  declare -a part=( ${1//\./ } )
+  declare    new
+  declare -i carry=1
+  CNTR=${#part[@]}-1
+  len=${#part[CNTR]}
+  new=$((part[CNTR]+carry))
+  part[CNTR]=${new}
+  new="${part[*]}"
+  echo -e "${new// /.}"
+}
+#version='1.2.3.9'
+#
+#increment_version $version
+#exit
 
-increase_version() {
+
+
+increase_version () {
 	podspecFile=$(ls *.podspec)
 	echo "podspecFile:$podspecFile"
 
@@ -66,20 +84,9 @@ increase_version() {
 	current_version=$(echo ${current_version//\'/})
 	echo "current_version:$current_version"
 
-	echo "提取最后一个版本号..."
-	last_version=$(echo $current_version | awk -F "." '{print $NF}')
-  echo "提取到的最后一个版本号为:$last_version"
-
-
-	inCrease_version=$((last_version+1))
-	echo "递增后的最后子版本号为:$inCrease_version"
-
-	final_version=${current_version/$last_version/$inCrease_version}
+	final_version=$(_increment_version $current_version)
 	echo "递增后的最终版本号为:$final_version, 正在写入文件..."
-
-
-	# cat $podspecFile>>$podspecFile
-
+#	exit
 	content=$(cat $podspecFile)
 	content=${content/$current_version/$final_version}
 
