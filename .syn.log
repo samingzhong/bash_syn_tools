@@ -766,3 +766,11 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-21 20:50:10] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 2831fad] 自动同步(push)[at 2022-07-21 20:50:10]
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To github.com:samingzhong/bash_syn_tools.git
+   4215325..2831fad  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-21 20:50:14] ⏫⏫⏫⏫⏫ ----------------
+
