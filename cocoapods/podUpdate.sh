@@ -45,7 +45,7 @@ getopts(){
 
 pod_lib_lint(){
 	echo -e "\n验证pod:pod lib lint --allow-warnings..."
-	pod lib lint --allow-warnings
+	pod lib lint --allow-warnings --use-libraries  --sources='git@gitlab.ttyuyin.com:podhub/myspec.git'
 	if [[ $? -eq 0 ]]; then
 		echo "pod 验证成功!"
 	else
