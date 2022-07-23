@@ -800,3 +800,10 @@ To github.com:samingzhong/bash_syn_tools.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-22 00:31:30] ⏫⏫⏫⏫⏫ ----------------
 
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-24 00:30:22] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
